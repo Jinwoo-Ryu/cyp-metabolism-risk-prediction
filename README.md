@@ -12,3 +12,13 @@ using machine learning models based on molecular structure.
 
 The ultimate goal is not model accuracy alone,
 but supporting better decision-making in early drug discovery.
+## Risk Definition
+In this project, CYP3A4 metabolic risk is defined based on in vitro inhibition potency.
+
+Compounds with IC50 values below 1 μM are classified as high risk,
+as such potency is commonly associated with clinically relevant
+drug–drug interactions or rapid metabolic clearance.
+
+This binary definition prioritizes minimizing false negatives,
+since missing a high-risk compound in early discovery
+can lead to costly late-stage failures.
