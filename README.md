@@ -22,3 +22,6 @@ drug–drug interactions or rapid metabolic clearance.
 This binary definition prioritizes minimizing false negatives,
 since missing a high-risk compound in early discovery
 can lead to costly late-stage failures.
+## Project Scope
+This project focuses on early-stage risk assessment
+and does not aim to replace experimental validation.
