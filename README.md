@@ -25,3 +25,15 @@ can lead to costly late-stage failures.
 ## Project Scope
 This project focuses on early-stage risk assessment
 and does not aim to replace experimental validation.
+## ADMET Context
+This project focuses on the metabolism (M) component of ADMET,
+specifically CYP3A4-mediated drug–drug interaction (DDI) risk.
+
+In early-stage drug discovery, ADMET assessment is used not to achieve
+perfect prediction accuracy, but to conservatively filter out compounds
+with a high probability of late-stage failure.
+
+By prioritizing sensitivity over specificity,
+this approach aims to minimize false negatives,
+where high-risk compounds could otherwise advance
+into costly optimization or clinical stages.
